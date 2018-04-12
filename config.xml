@@ -1,0 +1,137 @@
+<config>
+	<colors
+		clear="0x002036"
+		axis="0xffffff"
+		guide="0x00FFFF"
+		font="0xFFFFFF"
+	/>
+	<align
+		side="left"
+	/>
+	<profiles>
+		<iPhone
+			name="iPhone 320x480"
+			w="320"
+			h="480"
+			type="IPHONE"
+			id="iPhone"
+		/>
+		<Android
+			name="Android 320x480"
+			w="320"
+			h="480"
+			type="GPHONE"
+			id="HTC Magic"
+		/>
+		<iPhone
+			name="iPhone 480x320"
+			w="480"
+			type="IPHONE"
+			h="320"
+		/>
+		<VGA
+			name="VGA 480x640"
+			w="480"
+			h="640"
+		/>
+		<800x600
+			name="800x600"
+			w="800"
+			h="600"
+		/>
+		<Retina
+			name="Retina 960x640"
+			w="960"
+			h="640"
+		/>
+		<DevRetinaV
+			name="Retina Dev 640x800"
+			w="640"
+			h="800"
+		/>
+		<DevRetinaV2
+			name="Retina Dev 640x640"
+			w="640"
+			h="640"
+		/>
+		<DevRetinaV2
+			name="Retina Dev 640x480"
+			w="640"
+			h="480"
+		/>
+		<RetinaV
+			name="Retina 640x960"
+			w="640"
+			h="960"
+		/>
+		<RetinaV2
+			name="Retina 640x1136"
+			w="640"
+			h="1136"
+			default="1"
+		/>
+		<Retina750
+			name="Retina 750x1334"
+			w="750"
+			h="1334"
+		/>
+		<Retina750_147
+			name="Retina 750x1334 147"
+			w="750"
+			h="1334"
+			exp="SnkMode=1"
+		/>
+		<iPhoneX
+			name="iPhoneX 750x1624"
+			w="750"
+			h="1624"
+			exp="UIBottomGap=68;UITopGap=88"
+		/>
+		<Retina750_640
+			name="Retina 750x1334_640"
+			w="750"
+			h="1334"
+			scale_w="640",
+		/>
+		<iPad
+			name="iPad 1024x768"
+			w="1024"
+			h="768"
+		/>
+		<Editor
+			name="Editor 1280x800"
+			w="1280"
+			h="800"
+		/>
+		<Editor
+			name="Editor 1440x1136"
+			w="1440"
+			h="1136"
+		/>
+		<Editor
+			name="Editor 1440x1200"
+			w="1440"
+			h="1200"
+		/>
+		<Editor
+			name="Editor 1600x1200"
+			w="2000"
+			h="1200"
+		/>
+	</profiles>
+	<title
+		text="Bin"
+	/>
+	<emeditor
+		path="C:\Program Files\EmEditor\emeditor.exe";
+	/>
+	<respath
+		path="save";
+	/>
+</config>
+<JGX>
+	<Property
+		ChannelID = "1"
+		Desktop = "game"
+	/>
+</JGX>

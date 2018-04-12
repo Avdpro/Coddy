@@ -1,0 +1,70 @@
+<config>
+	<colors
+		clear="0x002036"
+		axis="0xffffff"
+		guide="0x00FFFF"
+		font="0xFFFFFF"
+	/>
+	<align
+		side="right"
+	/>
+	<profiles>
+		<Retina
+			name="iPhone4/4S 960x640"
+			w="960"
+			h="640"
+		/>
+		<DevRetinaV
+			name="Dev 640x800"
+			w="640"
+			h="800"
+		/>
+		<DevRetinaV2
+			name="Dev 640x640"
+			w="640"
+			h="640"
+		/>
+		<RetinaV
+			name="iPhone4/4S 640x960"
+			w="640"
+			h="960"
+		/>
+		<RetinaV2
+			name="iPhone5/5S 640x1136"
+			w="640"
+			h="1136"
+			default="1"
+		/>
+		<iPhone7
+			name="iPhone6/7/8 750x1334"
+			w="750"
+			h="1334"
+		/>
+		<iPhoneX
+			name="iPhoneX 750x1624"
+			w="750"
+			h="1624"
+			exp="UIBottomGap=68;UITopGap=88"
+		/>
+		<iPad
+			name="iPad 1024x768"
+			w="1024"
+			h="768"
+		/>
+	</profiles>
+	<title
+		text="Bin"
+	/>
+	<emeditor
+		path="C:\Program Files\EmEditor\emeditor.exe";
+	/>
+	<respath
+		path="save2";
+	/>
+</config>
+<JGX>
+	<Property
+		ChannelID = "1"
+		Desktop = "game"
+	/>
+</JGX>
